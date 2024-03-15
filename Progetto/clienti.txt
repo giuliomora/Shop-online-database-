@@ -1,0 +1,26 @@
+IDUtente;nome;cognome;email;indirizzo;partitaIva;telefono
+Pojak;Giorgio;Rossi;grossi@gmail.com;"via Piave 7, Milano";NULL;3458697894
+Pabi;Paolo;Bianchi;pbianchi@gmail.com;"via Milano 18, Ancona";NULL;3778563201
+At55;Antonio;Tomba;antomba@gmail.com;"via Baracca 49, Firenze";12304560789;3968564561
+bigG;Giorgia;Bianchi;gbia@mail.com;"via Roma 12, Osmannoro";NULL;3789654123
+Fabe;Fabio;Bena;fabena@alice.it;"piazzale XIV Agosto 55, Roma";13069852765;33389674500
+Rodry;Rodrigo;Alvaréz;alva@live.it;"viale Principe Umberto 11, Bari";NULL;3994562222
+pok32;Erika;Polon;eripolon@gmail.com;"piazzale XXVI Luglio 4, Figline Valdarno";13069856572;3210450099
+JackG;Giacomo;Gentile;jackg@gmail.com;"via Savonarola 55, Torino";59876521430;3401278956
+joco;Joao;Conti;joco@gmail.com;"piazzale XXVI Giugno 12, Palermo";13026526985;3042150099
+Alf22;Alfonso;Gallo;algal@gmail.com;"via della Pira 22, Firenze";67943022651;3302346885
+Padelu;Paolo;De Luca;delucap@virgilio.it;"piazza Dalmazia 1, Carrè";56349183712;3702657811
+Leorizz;Leonardo;Rizzo;leor@gmail.com;"via Venezia 165, Napoli";NULL;3049657815
+LucaLom;Luca;Lombardi;lucalom@gmail.com;"via del Porto 154, Roma";NULL;3408852825
+Marguz;Marco;Guzzardi;marguz@gmail.com;"via Garibaldi 28, Bergamo";59432128670;3802345698
+MatBarba;Matteo;Barbieri;mabr@mail.com;"viale Lepri 121, Lucca";NULL;3211321123
+Undici;Sabrina;Fontana;Sabfont@gmail.com;"via Milano 31, Udine";NULL;3002657811
+Hijk68;Roberdo;Talaj;rotaj@gmail.com;"via Torino 8, Firenze";NULL;3649784531
+Pedro44;Pedro;Quaracchi;pedroq@gmail.com;"via di Siena 1, Catanzaro";75946213021;3468028555
+Bacaruso;Batomene;Caruso;caruso888@gmail.com;"piazza Dalmazia 5b, Bari";89181234567;3560267819
+MattiaFersjid;Mattia;rampinini;MatRamp39@email.com;"via fratelli rosselli 26, Olgiate Olona";NULL;3395699350
+HSilvio99;Silvio;Huller;ssilvio99@gmail.com;"via lago di molveno 8, Vicenza";23568593422;2005981785
+SimoXOXO;Simone;Ventura;tesorino00@lovoo.it;"via vitalino brancati 29, Scicli";NULL;1130604835
+XaE;Eva;Xausa;xaev@libero.it;"via costa diana I 4, Carrè";NULL;3948952098
+Sfaticato;Marco;Venanzi;"via dei camaldolesi 28, Vicenza";NULL;3945695842
+
